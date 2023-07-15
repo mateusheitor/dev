@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: br.com.cod3r.exerciciossb.ExerciciosSbApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 2.158 s <<< FAILURE! - in br.com.cod3r.exerciciossb.ExerciciosSbApplicationTests
+contextLoads  Time elapsed: 0.02 s  <<< ERROR!
+java.lang.ExceptionInInitializerError
+Caused by: java.lang.IllegalArgumentException: Unable to instantiate factory class [org.springframework.data.jpa.util.HibernateProxyDetector] for factory type [org.springframework.data.util.ProxyUtils$ProxyDetector]
+Caused by: java.lang.UnsupportedClassVersionError: org/hibernate/proxy/HibernateProxy has been compiled by a more recent version of the Java Runtime (class file version 55.0), this version of the Java Runtime only recognizes class file versions up to 52.0
+

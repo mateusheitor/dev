@@ -1,0 +1,9 @@
+br\com\cod3r\exerciciossb\controllers\PrimeiroController.class
+br\com\cod3r\exerciciossb\model\repositories\ProdutoRepository.class
+br\com\cod3r\exerciciossb\controllers\CalculadoraController.class
+br\com\cod3r\exerciciossb\ExerciciosSbApplication.class
+br\com\cod3r\exerciciossb\controllers\MetodoHttpConttroler.class
+br\com\cod3r\exerciciossb\controllers\ProdutoController.class
+br\com\cod3r\exerciciossb\model\entities\Cliente.class
+br\com\cod3r\exerciciossb\model\entities\Produto.class
+br\com\cod3r\exerciciossb\controllers\ClienteController.class
